@@ -1,4 +1,4 @@
-# Sporty-Shoe-
+# Sporty-Shoe
 # Sporty Shoes An E-Commerce Application for Shoes in Spring boot
 
 ## Table of contents
